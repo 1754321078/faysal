@@ -1221,14 +1221,7 @@ margin-top: 100px;
     }
 }
   @media screen and (max-width: 768px) {
-    .header {
-        padding: 15px 5%;
-    }
-
-    .navbar a {
-        font-size: 18px;
-        margin-left: 20px;
-    }
+    
 
     .home {
         padding: 50px 5% 0;
@@ -1254,18 +1247,7 @@ margin-top: 100px;
 }
 
 
-@media screen and (min-width: 769px) {
-    .navbar a {
-        font-size: 25px;
-        margin-left: 35px;
-    }
 
-    .home {
-        padding: 70px 10% 0;
-    }
-
-   
-}
 
 @media (max-width:799px){
 
